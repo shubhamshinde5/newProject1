@@ -1,1 +1,6 @@
 hello this is my dummy file 1 for testing git working
+
+second line to update this file, now check # git status
+
+new line --> changes will be erased by #git restore <filename>
+
